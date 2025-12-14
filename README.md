@@ -21,3 +21,5 @@ cut: Используется в резервном случае (для про�
 
 <img width="1097" height="215" alt="image" src="https://github.com/user-attachments/assets/69d4f9bd-3597-498d-bca7-1dd6b1ac3c47" />
 
+<img width="529" height="264" alt="image" src="https://github.com/user-attachments/assets/0a07e010-78d4-4c2f-b151-7fe4ee5ce669" />
+
